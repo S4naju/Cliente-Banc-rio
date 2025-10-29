@@ -8,7 +8,7 @@ O trabalho consiste na **criação de um sistema bancário**, no qual o aluno de
 
 ### Estrutura orientada pelo professor:
 
-O professor orientou que o projeto fosse dividido em **dois arquivos principais**:
+O professor orientou que o projeto fosse dividido em **dois arquivos**:
 
 1. **`clienteBancario.py`**  
    Contém **apenas a classe e os métodos** (sem `print` nem `input`), responsáveis por:

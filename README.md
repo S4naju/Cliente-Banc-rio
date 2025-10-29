@@ -25,4 +25,5 @@ O professor orientou que o projeto fosse dividido em **dois arquivos**:
    - Visualização do extrato  
    - Simulação de financiamento  
 
+
 **Observação:** O código está cheio de comentário explicativos, pois eu estudo ele comentando cada parte para entender melhor a lógica e alguns conceitos de POO

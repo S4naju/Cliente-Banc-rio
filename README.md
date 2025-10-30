@@ -5,6 +5,7 @@ Este projeto foi desenvolvido como parte da disciplina **Programação II** no *
 
 O trabalho consiste na **criação de um sistema bancário**, no qual o aluno deve modelar uma **classe `Cliente`** que representa um cliente bancário e fornece métodos para operações básicas (depósito, saque, extrato) e uma simulação de financiamento usando **juros compostos e tabela PRICE**.
 
+---
 
 ### Estrutura orientada pelo professor:
 
@@ -25,5 +26,12 @@ O professor orientou que o projeto fosse dividido em **dois arquivos**:
    - Visualização do extrato  
    - Simulação de financiamento  
 
+---
+
+### Como usar:
+
+Basta rodar o arquivo Python correspondente a cada trabalho. O programa interage com você, pedindo os itens a inserir e quantos deseja remover, mostrando sempre o estado atual da fila.
+
+---
 
 **Observação:** O código está cheio de comentário explicativos, pois eu estudo ele comentando cada parte para entender melhor a lógica e alguns conceitos de POO

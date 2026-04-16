@@ -28,12 +28,6 @@ O professor orientou que o projeto fosse dividido em dois arquivos:
 
 ---
 
-### Como usar:
-
-Basta rodar o arquivo Python correspondente a cada trabalho. O programa interage com você, pedindo os itens a inserir e quantos deseja remover, mostrando sempre o estado atual da fila.
-
----
-
 ### Observação: 
 O código está cheio de comentário explicativos, pois eu estudo ele comentando cada parte para entender melhor a lógica e alguns conceitos de POO
 
